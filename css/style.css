@@ -69,13 +69,13 @@ figcaption {
   color: red;
 }
 
-/*/////// MEDIA ////////*/
+/* MEDIA */
 
 img, video, audio {
   max-width: 100%;
 }
 
-/*/////// LAYOUT ////////*/
+/* LAYOUT */
 
 * {
   -webkit-box-sizing: border-box;
@@ -121,7 +121,7 @@ img, video, audio {
   margin-left: 0%;
 }
 
-/*/////// SECTIONS ////////*/
+/* SECTIONS */
 
 header {
   position: fixed;
